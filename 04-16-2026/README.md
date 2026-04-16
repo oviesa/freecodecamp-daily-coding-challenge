@@ -1,5 +1,9 @@
 # ParityParser
 
+## Instructions
+
+### String Math
+
 A logic-oriented program that performs arithmetic calculations based on the count of non-digit characters between numbers.
 
 ## How It Works
